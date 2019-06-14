@@ -34,7 +34,11 @@ The biggest difference is that .map will create a new array without modifying th
 
 2. What is the difference between a function and a method?
 
+Methods are different from functions because they are attached to an object and functions can work independent of objects.
+
 3. What is closure?
+
+Closure has to do with the specific scope that a function creates. If a variable is declared outside of a function that function can access that variable. 
 
 4. Describe the four rules of the 'this' keyword.
 
